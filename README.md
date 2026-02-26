@@ -5,4 +5,4 @@ Elas garantem a reutilização de lógica e a criação de inúmeros objetos a p
 segurança ao proteger informações internas contra alterações indevidas por meio do encapsulamento. Toda essa estrutura facilita imensamente a manutenção do software, já que 
 centralizam as regras e qualquer alteração feita na classe corrige e atualiza automaticamente todos os objetos derivados dela.
 
-No exemplo do sistema, fiz a criação de uma classe simples: Garrafa, que recebeu atributos: Cor (String), Material (String) e Capacidade (int).
+No exemplo do sistema, fiz a criação de uma classe simples: Garrafa, que recebeu atributos: Material (String), Formato (String) e Nível de vedação (int).
